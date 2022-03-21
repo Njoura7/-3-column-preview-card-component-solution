@@ -97,16 +97,16 @@ button:hover {
 @media (min-width: 1140px) {
 	main {
 		flex-direction: row;
-		height: 60vh;
+		height: 63vh;
 		width: 65%;
 	}
 	div {
 		height: 100%;
 		position: relative;
-		padding: 3rem;
+		padding: 2.5rem;
 	}
 	p {
-		line-height: 30px;
+		line-height: 25px;
 		margin-top: 2rem;
 	}
 	button {
