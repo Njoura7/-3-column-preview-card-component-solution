@@ -19,7 +19,7 @@ body {
 	justify-content: center;
 }
 main {
-	width: 70%;
+	width: 80%;
 	display: flex;
 	flex-direction: column;
 
@@ -52,12 +52,12 @@ p {
 	line-height: 27px;
 	font-size: 15px;
 }
-h2 {
+h1 {
 	color: hsl(0, 0%, 95%);
 	font-family: "Big Shoulders Display";
 	text-transform: uppercase;
 	margin-bottom: 1rem;
-	font-size: 2rem;
+	font-size: 2.5rem;
 }
 img {
 	margin-bottom: 1rem;
@@ -94,21 +94,24 @@ button:hover {
 	border: 2px solid white;
 	cursor: pointer;
 }
-@media (min-width: 1050px) {
+@media (min-width: 1140px) {
 	main {
 		flex-direction: row;
-		height: 65vh;
+		height: 60vh;
 		width: 65%;
 	}
 	div {
 		height: 100%;
 		position: relative;
+		padding: 3rem;
 	}
 	p {
 		line-height: 30px;
+		margin-top: 2rem;
 	}
 	button {
 		position: absolute;
 		bottom: 20px;
+		height: 3rem;
 	}
 }
