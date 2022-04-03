@@ -54,7 +54,7 @@ I will consider to start using a CSS preprocessor I am sure that will facilitate
 - Frontend Mentor - [@Njoura7](https://www.frontendmentor.io/profile/Njoura7)
 
 ## Acknowledgments
-Those are my heros heroes that I am following right now and who are helping me in almost every single step and project:
+Those are my instractors that I am following right now and who are helping me in almost every single step and project:
 
 ### Youtube channels:
 [*Kevin Powell*](https://www.youtube.com/kepowob)
